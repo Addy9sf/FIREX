@@ -19,7 +19,7 @@ It is not like the other bots which are being Suspended by Heroku. Hence, it can
 
 
 ## FIRST TRY THIS TO DEPLOY ON HEROKU  FROM THIS LINK  IF NOT WORKS FOLLOW BELOW STEP
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Addy9sf/FIRE-X)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Addy9sf/FIRE-X")
 
 ## Deploy To Heroku
 - Get All The Necessary Variables And Deploy To Heroku.
